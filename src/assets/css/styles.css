@@ -1,0 +1,16 @@
+.logo{
+    font-family: "Dancing Script", serif;  
+    color:#cc4639;
+}
+
+.btn{
+    background-color: #cc4639;
+    color: beige;
+}
+.btn:hover{
+    background-color: transparent;
+    color: #cc4639;
+    outline: 2px solid #cc4639;
+}
+
+
